@@ -16,3 +16,8 @@ Gold coinï¼šObtained after victory, can be used to purchase equipment and propsã
 
 
 ## Features to implement
+Generation of random game sets or events
+Data structures for storing game status
+Dynamic memory management
+File input/output (e.g., for loading/saving game status)
+Program codes in multiple files
