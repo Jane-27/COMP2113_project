@@ -19,3 +19,12 @@ Mode of combat：A series of small games with different difficulty levels. Attac
 
 ## Features to implement
 
+1. Generation of random game sets or events
+
+2. Data structures for storing game status
+
+3. Dynamic memory management
+
+4. File input/output (e.g., for loading/saving game status)
+
+5. Program codes in multiple files
