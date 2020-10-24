@@ -14,10 +14,8 @@ Level：The level increases with the number of battle victories. Only when you r
 Equipment: Different equipment has different effects on attack value, defense value and blood volume。
 Gold coin：Obtained after victory, can be used to purchase equipment and props。
 
+Mode of combat：
+
 
 ## Features to implement
-Generation of random game sets or events
-Data structures for storing game status
-Dynamic memory management
-File input/output (e.g., for loading/saving game status)
-Program codes in multiple files
+
