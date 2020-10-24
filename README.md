@@ -14,7 +14,7 @@ Level：The level increases with the number of battle victories. Only when you r
 Equipment: Different equipment has different effects on attack value, defense value and blood volume。
 Gold coin：Obtained after victory, can be used to purchase equipment and props。
 
-Mode of combat：
+Mode of combat：A series of small games with different difficulty levels. Attack value, defense value, and blood volume can be used as parameters to affect the battle result to a certain extent.
 
 
 ## Features to implement
