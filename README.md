@@ -20,7 +20,7 @@ Mode of combat：A series of small games with different difficulty levels. Attac
 ## Features to implement
 
 1. Generation of random game sets or events
-
+the eanndomnness of the game will be implemennted through 
 2. Data structures for storing game status
 
 3. Dynamic memory management
