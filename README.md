@@ -5,22 +5,15 @@ XIONG Yingchao 3035446796
 YANG Jinghan 3035638789
 
 ## Game Description
-This is a magic land. People's ability to fight determines their survival ability. People here like to fight and constantly strengthen themselves through fighting. Through fighting, you can upgrade the level and obtain equipment and gold coins. gold coins can be used to buy blood tonic drugs and equipment to improve combat capability. The final Mana value and the level will affect the player’s status in the magic continent.
-
-
-Mana value: Quantitative performance of combat capability .It is composed of attack, defense and blood.
-            Mana = attack*0.4 + defence*0.35 + blood*0.25
-Level：The level increases with the number of battle victories. Only when you reach a certain level, you can enter some more difficult challenges.
-Equipment: Different equipment has different effects on attack value, defense value and blood volume。
-Gold coin：Obtained after victory, can be used to purchase equipment and props。
-
-Mode of combat：A series of small games with different difficulty levels. Attack value, defense value, and blood volume can be used as parameters to affect the battle result to a certain extent.
-
+You enter an amazing world. You destinametion is SUCCESS. You have to enter it and win the two games
+Use the w(up) a(left) s(down) d(right) keys to move the character, it will automatically fight monsters when it
+hits the monsters, and the ones that cannot be defeated cannot pass. Go to the item and automatically pick it up, and the blue door will collide and open (it wi
+ll cost the corresponding color key.If you can fight against the mosnters you can get coins, which enables you to enter the SUCCESS
 
 ## Features to implement
 
 1. Generation of random game sets or events
-the eanndomnness of the game will be implemennted through 
+
 2. Data structures for storing game status
 
 3. Dynamic memory management
