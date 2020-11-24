@@ -5,9 +5,7 @@ XIONG Yingchao 3035446796
 YANG Jinghan 3035638789
 
 ## Game Description
-You enter an amazing world. You destinametion is SUCCESS. You have to enter it and win the two games
-Use the w(up) a(left) s(down) d(right) keys to move the character, it will automatically fight monsters when it
-hits the monsters, and the ones that cannot be defeated cannot pass. Go to the item and automatically pick it up, and the blue door will collide and open (it will cost the corresponding color key.If you can fight against the mosnters you can get coins, which enables you to enter the SUCCESS
+There are three layers of maps in this game. There are Zuma games between each two layers, and a 357 game is on the last layer. Games are interconnected, and you need to win through your wisdom.
 
 ## Features to implement
 
