@@ -30,3 +30,7 @@ hits the monsters, and the ones that cannot be defeated cannot pass. Go to the i
 
 5. Program codes in multiple files
     There are 3 major files: main.cpp, zuma.cpp, tfs.cpp, each of them represents a different game, when the player arrives at a certain location, the main function will call the 2 game functions in different files, and the player will enter into the zuma game or 357 game. 
+    
+## Compilation and excution
+    g++ -pedantic-errors -std=c++11 main.cpp zuma.cpp tfs.cpp -o main
+    ./main
