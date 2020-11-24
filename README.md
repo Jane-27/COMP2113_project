@@ -20,6 +20,7 @@ There are three layers of maps in this game. There are Zuma games between each t
 
 3. Dynamic memory management
     In the zuma game, we use linked list to store the game status. Since it can point to any other momory location, and we can know what is the order of a sequence of a row and can insert or delete any several balls innto it.
+    In the 357 game, we use dynamic memory to store the number of balls.
     
 4. File input/output (e.g., for loading/saving game status)
     In the main.cpp(mota game), the input is which direction to go to, and whether to fight with a NPC or not. The output is the map of the level the player is at, and the results after fighting.
