@@ -32,3 +32,7 @@ There are three layers of maps in this game. There are Zuma games between each t
 ## Compilation and excution
     g++ -pedantic-errors -std=c++11 main.cpp zuma.cpp tfs.cpp -o main
     ./main
+
+## Sample input/output files
+    We do not have sample files, because in the zuma game and 357 games, the output are random. 
+    We have to input different content according to different outputs.
